@@ -1,0 +1,5 @@
+.DS_Store
+
+# Git Ignore Pattern Examples 
+# Specific File: MyFile.ext 
+# File Pattern: *.ext # Folder: my-folder/
